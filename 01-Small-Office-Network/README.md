@@ -27,3 +27,11 @@ Design and configure a small office network using Cisco Packet Tracer.
 
 ## Verification
 Successful ICMP ping tests were completed between all devices with 0% packet loss.
+
+## Network Topology
+
+![Topology](topology.jpg)
+
+## Connectivity Test
+
+![Ping Test](ping-test.jpg)
